@@ -1,0 +1,35 @@
+### **Today's Beginner Web Development Challenge:**
+
+#### **Major Skill: Basic HTML/CSS**
+
+**Objective:** Create a simple "Personal Profile" webpage using HTML and CSS.
+
+#### **Challenge Details:**
+
+1. **Primary Task (HTML/CSS Basics):**
+   - Create a single-page **"Personal Profile" webpage** with the following elements:
+     - **Title**: Add a title at the top, such as "My Personal Profile."
+     - **Profile Section**: Create a section with your name, a brief bio, and a placeholder for a profile picture.
+     - **Favorite Hobbies**: Use an unordered list (`<ul>`) to list your top three hobbies or interests.
+     - **Contact Information**: Provide a simple list of your contact information (email, social media handles, etc.).
+
+2. **Supplementary Skill 1 (Basic CSS Styling):**
+   - Style your "Personal Profile" page with CSS:
+     - Set a background color or a gradient for the page.
+     - Style the text with a custom font and colors that represent your personality.
+     - Add borders or shadow effects to your profile picture section.
+
+3. **Supplementary Skill 2 (Basic Git):**
+   - Initialize a Git repository in your project folder.
+   - Make your first commit once you have the basic HTML structure in place.
+   - Make a second commit after you’ve added your CSS styling.
+   - Push your code to a GitHub repository.
+
+### **Deliverables:**
+- A "Personal Profile" webpage with your name, bio, hobbies, and contact information.
+- CSS styling that personalizes and enhances the appearance of your page.
+- A GitHub repository with at least two commits showing your progress.
+
+### **Estimated Time:** 30 minutes to 1 hour
+
+This challenge should be more engaging and will still provide a good foundation for basic HTML, CSS, and Git usage. Enjoy!
